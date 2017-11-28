@@ -1678,6 +1678,9 @@
                 "width": "100%",
                 "height": "auto"
               }
+            },
+            "B": {
+              "color": "#e5524e"
             }
           },
           "_name": "testimonials-slider1",
@@ -1918,7 +1921,8 @@
               "text-align": "center"
             },
             "P": {
-              "text-align": "center"
+              "text-align": "center",
+              "color": "#e9ea88"
             }
           },
           "_name": "form2",
