@@ -1905,7 +1905,10 @@ body {
 }
 .cid-qCeXxE9HQF .mbr-text,
 .cid-qCeXxE9HQF .mbr-section-btn {
-  text-align: left;
+  text-align: center;
+}
+.cid-qCeXxE9HQF .card-title {
+  text-align: center;
 }
 .cid-qCfjl6SLiB {
   padding-top: 80px;
@@ -1985,6 +1988,9 @@ body {
   }
 }
 .cid-qCf3MYM21K B {
+  color: #2c1616;
+}
+.cid-qCf3MYM21K H2 {
   color: #e5524e;
 }
 .cid-qCeXZ3wPrQ {
